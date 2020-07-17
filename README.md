@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Contact me on Codementor](https://www.codementor.io/m-badges/segunjosh/im-a-cm-b.svg)](https://www.codementor.io/@segunjosh?refer=badge)
 
 [![](https://img.shields.io/badge/LinkedIn-segun-joshua)](https://www.linkedin.com/in/segun-joshua)
 [![](https://img.shields.io/badge/Gmail-joshusegun%40gmail.com-red)](mailto:joshusegun@gmail.com)
