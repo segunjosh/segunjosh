@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-joshusegun%40gmail.com-red)](mailto:joshusegun@gmail.com)
 [![](https://img.shields.io/badge/Twitter-%40boltannical-blue)](https://t.me/boltannical)
 
-![](code.png)
+![](https://github.com/segunjosh/segunjosh/code.png)
 
 
 <!--
