@@ -7,7 +7,7 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/segunjosh/get-help.svg)](https://www.codementor.io/@segunjosh?refer=badge)
 ![Profile views](https://gpvc.arturio.dev/segunjosh)
 
-[![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
+![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
 
 
 <!--
