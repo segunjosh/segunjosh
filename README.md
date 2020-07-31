@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Gmail-joshusegun%40gmail.com-red)](mailto:joshusegun@gmail.com)
 [![](https://img.shields.io/badge/Twitter-%40boltannical-blue)](https://t.me/boltannical)
 [![Contact me on Codementor](https://www.codementor.io/m-badges/segunjosh/get-help.svg)](https://www.codementor.io/@segunjosh?refer=badge)
-[![Profile views](https://gpvc.arturio.dev/segunjosh)
+![Profile views](https://gpvc.arturio.dev/segunjosh)
 
 [![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
 
