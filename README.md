@@ -9,11 +9,12 @@
 
 ![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunjosh&show_icons=true) 
 
 
 <!--
 **segunjosh/segunjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunjosh&show_icons=true) 
 
 Here are some ideas to get you started:
 
