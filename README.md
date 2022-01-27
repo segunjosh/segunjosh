@@ -7,12 +7,13 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/segunjosh/get-help.svg)](https://www.codementor.io/@segunjosh?refer=badge)
 ![Profile views](https://gpvc.arturio.dev/segunjosh)
 
-![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
 
 
 
 <!--
 **segunjosh/segunjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/segunjosh/segunjosh/blob/master/code2.png)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=segunjosh&show_icons=true) 
 
