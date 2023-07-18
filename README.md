@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/LinkedIn-segun-joshua)](https://www.linkedin.com/in/segun-joshua)
-[![](https://img.shields.io/badge/Gmail-joshusegun%40gmail.com-red)](mailto:joshusegun@gmail.com)
 [![](https://img.shields.io/badge/Twitter-%40boltannical-blue)](https://t.me/boltannical1)
 
 
